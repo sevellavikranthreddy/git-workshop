@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-  int n = 5,b=n,fact=1;
+  int num = 5,b=num,fact=1;
   while(n>0)
   {
-    fact*=n
-    n--;
+    fact*=num
+    num--;
 
   }
 cout<<"factorial of "<<b<<" is "<<fact;
